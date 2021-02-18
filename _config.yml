@@ -1,1 +1,10 @@
-theme: jekyll-theme-minimal
+# Site
+name: "Pudo"
+title: "Pudo"
+description: "Blog Site"
+baseurl: ''
+google_analytics: ''
+disqus: ''
+mailchimp-lists: ''
+include: ["_pages"]
+permalink: /:title/
