@@ -71,6 +71,7 @@ comparison to only having folders.
 
 <p align="center"> <img width = "400"
 src="https://raw.githubusercontent.com/poweruserdo/poweruserdo.github.io/main/_posts/2021-02-17-firefox/bookmarksbar.png">
+</p>
 
 Finally, as you can see in the above image, the bookmarks sidebar has its own
 search bar. What is this for? It allows you to filter and sort through your
