@@ -37,7 +37,7 @@ page:
 
 
 <p align="center"> <img width = "900"
-src="https://raw.githubusercontent.com/poweruserdo/poweruserdo.github.io/main/_posts/2021-02-17-firefox/yt3b1b.gif">
+src="https://raw.githubusercontent.com/poweruserdo/poweruserdo.github.io/main/_posts/2021-02-17-firefox/complexbookmark.gif">
 </p>
 
 As you can see, this is a tremendously useful tool, saving time in comparison to
