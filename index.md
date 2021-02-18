@@ -4,4 +4,4 @@ title: Home Page
 ---
 
 # Recent Posts
-(Firefox)[./_posts/firefox.md]
+(Firefox)[./_posts/2021-02-17-firefox.md]
