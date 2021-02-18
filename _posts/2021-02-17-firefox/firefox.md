@@ -70,7 +70,7 @@ this clutter, but it's incomparable to Firefox's bookmarks sidebar. By pressing
 comparison to only having folders.
 
 <p align="center"> <img width = "400"
-src="https://raw.githubusercontent.com/poweruserdo/poweruserdo.github.io/main/bookmarksbar.png">
+src="https://raw.githubusercontent.com/poweruserdo/poweruserdo.github.io/main/_posts/2021-02-17-firefox/bookmarksbar.png">
 
 Finally, as you can see in the above image, the bookmarks sidebar has its own
 search bar. What is this for? It allows you to filter and sort through your
