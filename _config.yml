@@ -2,6 +2,8 @@
 name: "Pudo"
 title: "Pudo"
 description: "Blog Site"
+logo: ''
+favicon: ''
 baseurl: ''
 google_analytics: ''
 disqus: ''
