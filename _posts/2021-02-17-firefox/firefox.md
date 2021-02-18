@@ -20,7 +20,7 @@ or browser history for a webpage. For instance, you could have the short string
 subscriptions.
 
 <p align="center"> <img width = "900"
-src="https://raw.githubusercontent.com/poweruserdo/poweruserdo.github.io/main/yt.gif">
+src="https://raw.githubusercontent.com/poweruserdo/poweruserdo.github.io/main/_posts/2021-02-17-firefox/yt.gif">
 </p>
 
 This is great if you just want to access a few basic sites with your keyboard,
